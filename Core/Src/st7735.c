@@ -1,10 +1,4 @@
-/*
- * st7735.c
- *
- *  Created on: 16 ���. 2019 �.
- *      Author: Andriy Honcharenko
- *        Blog: https://stm32withoutfear.blogspot.com
- */
+
 
 #include "st7735.h"
 #include "stdlib.h"
